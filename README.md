@@ -80,7 +80,7 @@ Graduating 2027.
 
 ## Reach me
 
-- **Email** — your.email@example.com
+- **Email** — 2118502719@qq.com
 - **Open to** — backend / AI application engineering roles, 2027
 
 ---

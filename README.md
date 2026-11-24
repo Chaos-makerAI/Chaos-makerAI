@@ -69,8 +69,8 @@ The implementation stays private. I'm glad to walk through the runtime seam, the
 
 ## Background
 
-- **AI engineering intern** — Muchen AI, Chongqing · 2026.07 – present
-- **AI acquisition agent intern** — Lingka Software, Changsha · 2026.04 – 2026.06
+- **AI engineering intern** — Fuke AI, chengdu · 2026.07 – present
+- **AI acquisition agent intern** — Fuke AI,  chengdu · 2026.04 – 2026.06
   Private-domain sales and lead-generation agents.
 - **Before that** — RAG knowledge base: multi-route recall (vector + BM25), RRF fusion, rerank, SSE-streamed answers.
 
